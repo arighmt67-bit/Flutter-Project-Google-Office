@@ -38,13 +38,4 @@ lib/
     ├── home_page.dart        # List/Grid with search
     └── detail_page.dart      # Office detail view
 
-## 🏃 How to Run
-1. Clone this repository
-2. Run `flutter pub get`
-3. Run `flutter run`
 
-## 📱 Screenshots
-_Coming soon_
-
-## 🎓 Course
-[Belajar Membuat Aplikasi Flutter untuk Pemula — Dicoding](https://www.dicoding.com)
